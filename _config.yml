@@ -1,0 +1,11 @@
+# basic options
+title: Totally Awesome Blog
+author: GitHub User
+email: your-email@domain.com
+description: Incredibly wonderful site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
