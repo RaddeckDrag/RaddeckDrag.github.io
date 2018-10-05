@@ -1,2 +1,2 @@
 # RaddeckDrag.github.io
-Learning to use GHpages
+Learning to use GH pages
